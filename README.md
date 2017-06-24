@@ -10,6 +10,7 @@ A curated list of ICO repositories that produced ERC20/ERC223 tokens.
 * [Edgeless](https://github.com/miohtama/Edgeless-Smart-Contracts)
 * [Golem](https://github.com/golemfactory/golem-crowdfunding)
 * [Aragon](https://github.com/aragon/aragon-network-token)
+* [Gnosis](https://github.com/ConsenSys/gnosis-contracts/)
 
 # ICO frameworks
 
