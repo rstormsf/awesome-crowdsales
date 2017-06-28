@@ -11,7 +11,7 @@ A curated list of ICO repositories that produced ERC20/ERC223 tokens.
 * [Golem](https://github.com/golemfactory/golem-crowdfunding) just pyethereum
 * [Aragon](https://github.com/aragon/aragon-network-token) truffle 3.1.9
 * [Gnosis](https://github.com/gnosis/gnosis-contracts/) truffle 3.x
-* [Storj](https://github.com/Storj/storj-contracts/) populus 1.6.8
+* [Storj](https://github.com/Storj/storj-contracts/) [TokenMarket](https://github.com/tokenMarketNet/ico) framework
 
 # ICO frameworks
 
