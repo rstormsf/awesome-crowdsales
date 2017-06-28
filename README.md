@@ -15,11 +15,11 @@ A curated list of ICO repositories that produced ERC20/ERC223 tokens.
 | [Aragon](https://github.com/aragon/aragon-network-token) | truffle | 3.1.9 |
 | [Gnosis](https://github.com/gnosis/gnosis-contracts/) | truffle | 3.x | 
 | [Storj](https://github.com/Storj/storj-contracts/) | [TokenMarket](https://github.com/tokenMarketNet/ico) | |
-| [EOS](https://github.com/EOSIO/eos-token-distribution) | [Dapp](github.com/dapphub/dapp) | |
+| [EOS](https://github.com/EOSIO/eos-token-distribution) | [Dapp](https://github.com/dapphub/dapp) | |
 | [SONM](https://github.com/sonm-io/ico-contracts) | truffle | |
 
 # ICO frameworks
 
 * [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)
 * [TokenMarket](https://github.com/tokenMarketNet/ico)
-* [Dapp](github.com/dapphub/dapp)
+* [Dapp](https://github.com/dapphub/dapp)
