@@ -5,12 +5,13 @@ A curated list of ICO repositories that produced ERC20/ERC223 tokens.
 
 
 # ICO contracts
-* [Lunyr](https://github.com/Lunyr/crowdsale-contracts)
-* [Bancor](https://github.com/bancorprotocol/contracts/)
-* [Edgeless](https://github.com/miohtama/Edgeless-Smart-Contracts)
-* [Golem](https://github.com/golemfactory/golem-crowdfunding)
-* [Aragon](https://github.com/aragon/aragon-network-token)
-* [Gnosis](https://github.com/ConsenSys/gnosis-contracts/)
+* [Lunyr](https://github.com/Lunyr/crowdsale-contracts) truffle 3.1.2
+* [Bancor](https://github.com/bancorprotocol/contracts/) truffle 3.2.2
+* [Edgeless](https://github.com/miohtama/Edgeless-Smart-Contracts) populus 1.5.0
+* [Golem](https://github.com/golemfactory/golem-crowdfunding) just pyethereum
+* [Aragon](https://github.com/aragon/aragon-network-token) truffle 3.1.9
+* [Gnosis](https://github.com/gnosis/gnosis-contracts/) truffle 3.x
+* [Storj](https://github.com/Storj/storj-contracts/) populus 1.6.8
 
 # ICO frameworks
 
