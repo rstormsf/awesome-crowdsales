@@ -17,7 +17,7 @@ A curated list of ICO repositories that produced ERC20/ERC223 tokens.
 | [Storj](https://github.com/Storj/storj-contracts/) | [TokenMarket](https://github.com/tokenMarketNet/ico) | |
 | [EOS](https://github.com/EOSIO/eos-token-distribution) | [Dapp](https://github.com/dapphub/dapp) | |
 | [SONM](https://github.com/sonm-io/ico-contracts) | truffle | |
-
+| [BAT](https://github.com/brave-intl/basic-attention-token-crowdsale) | none | |
 # ICO frameworks
 
 * [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)
