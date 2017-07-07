@@ -24,3 +24,4 @@ A curated list of ICO repositories that produced ERC20/ERC223 tokens.
 * [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)
 * [TokenMarket](https://github.com/tokenMarketNet/ico)
 * [Dapp](https://github.com/dapphub/dapp)
+* [DAO-Factory](https://github.com/airalab/DAO-Factory)
