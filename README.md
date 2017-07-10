@@ -19,6 +19,7 @@ A curated list of ICO repositories that produced ERC20/ERC223 tokens.
 | [SONM](https://github.com/sonm-io/ico-contracts) | truffle | |
 | [BAT](https://github.com/brave-intl/basic-attention-token-crowdsale) | none | |
 | [MobileGo](https://github.com/bokkypoobah/MobileGoToken)| none | |
+| [MotherShip](https://github.com/mothershipcx/contracts) | truffle | 3.2.5 |
 # ICO frameworks
 
 * [OpenZeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)
