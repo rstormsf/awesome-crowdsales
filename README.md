@@ -8,6 +8,8 @@ A curated list of ICO repositories that produced ERC20/ERC223 tokens.
 # ICO contracts
 | Token Name | Framework Used | Version |
 | ------------- | ------------- |------------- |
+| [Cindicator](https://github.com/rstormsf/cindicator_tokensale) | truffle | 3.4.9 |
+| [Status](https://github.com/status-im/status-network-token/tree/master/contracts) | |  |
 | [Lunyr](https://github.com/Lunyr/crowdsale-contracts) | truffle | 3.1.2 |
 | [Bancor](https://github.com/bancorprotocol/contracts/) | truffle | 3.2.2 |
 | [Edgeless](https://github.com/miohtama/Edgeless-Smart-Contracts) | populus | 1.5.0 |
